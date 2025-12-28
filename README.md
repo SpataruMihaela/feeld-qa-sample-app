@@ -8,6 +8,16 @@ mirroring common flows found in dating-style applications (e.g. Feeld).
 
 ---
 
+## Automation Testing
+
+End-to-end automation tests for this application are implemented in a separate repository:
+
+https://github.com/SpataruMihaela/feeld-qa-automation
+
+The automation suite uses Appium + WebdriverIO to validate critical user journeys
+on Android devices.
+
+
 ## Purpose
 
 This project was created to:
